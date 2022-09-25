@@ -1,7 +1,5 @@
 ﻿using CellphoneAbstraction.Models;
 
-// TODO: Realizar os testes com as classes Nokia e Iphone
-
 namespace CellphoneAbstraction
 {
     class Program
